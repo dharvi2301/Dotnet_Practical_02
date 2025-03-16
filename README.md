@@ -13,34 +13,7 @@ This project demonstrates a simple **Customer Account Management System** using 
 - Displays customer details using a **print method**.
 - Uses **OOP principles** like **Encapsulation, Abstraction, and Constructors**.
 
----
+## Below is the output when the Customer Account Console Application is executed:
+![Customer Account Output](https://github.com/user-attachments/assets/3a2ddfd5-5d90-4f6e-be36-7e35abeadd3b)
 
-## Code Explanation
-
-### `Customer_Account` Class
-```csharp
-public class Customer_Account
-{
-    public string bank_name { get; set; }
-    public long customer_accountNo { get; set; }
-    public string customer_name { get; set; }
-
-    public Customer_Account(long customer_accountNo, string customer_name)
-    {
-        this.customer_accountNo = customer_accountNo;
-        this.customer_name = customer_name;
-    }
-
-    public void SetBankName(string bankName)
-    {
-        bank_name = bankName;
-    }
-
-    public void printInfo()
-    {
-        Console.WriteLine("Bank Name: " + bank_name);
-        Console.WriteLine("Customer Account Number: " + customer_accountNo);
-        Console.WriteLine("Customer Name: " + customer_name);
-    }
-}
 
