@@ -1,0 +1,8 @@
+C:\Users\MY LAPTOP\Documents\Simform\Dotnet_Practical_02\Practical_02\Practical_02\bin\Debug\Practical_02.exe.config
+C:\Users\MY LAPTOP\Documents\Simform\Dotnet_Practical_02\Practical_02\Practical_02\bin\Debug\Practical_02.exe
+C:\Users\MY LAPTOP\Documents\Simform\Dotnet_Practical_02\Practical_02\Practical_02\bin\Debug\Practical_02.pdb
+C:\Users\MY LAPTOP\Documents\Simform\Dotnet_Practical_02\Practical_02\Practical_02\obj\Debug\Practical_02.csproj.AssemblyReference.cache
+C:\Users\MY LAPTOP\Documents\Simform\Dotnet_Practical_02\Practical_02\Practical_02\obj\Debug\Practical_02.csproj.SuggestedBindingRedirects.cache
+C:\Users\MY LAPTOP\Documents\Simform\Dotnet_Practical_02\Practical_02\Practical_02\obj\Debug\Practical_02.csproj.CoreCompileInputs.cache
+C:\Users\MY LAPTOP\Documents\Simform\Dotnet_Practical_02\Practical_02\Practical_02\obj\Debug\Practical_02.exe
+C:\Users\MY LAPTOP\Documents\Simform\Dotnet_Practical_02\Practical_02\Practical_02\obj\Debug\Practical_02.pdb
