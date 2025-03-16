@@ -19,7 +19,7 @@ namespace Practical_02
             // Display customer account details
             customer.printInfo();
 
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }
